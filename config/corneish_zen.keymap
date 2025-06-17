@@ -54,7 +54,7 @@
 &kp EXCL     &kp AT     &kp HASH     &kp DLLR   &kp PRCNT   &kp CARET    &kp AMPS  &kp ASTRK &kp LPAR  &kp RPAR
 &kp TILDE    &kp GRAVE  &kp BSLH     &kp PIPE   &none       &none        &none     &none     &kp MINUS &kp EQUAL
 &trans       &kp UNDER  &kp LBRC     &kp LBRK   &kp LPAR    &kp RPAR     &kp RBRK  &kp RBRC  &kp PLUS  &kp SQT
-                          &trans &trans   &trans   &kp DEL   &trans    &kp trans
+                          &trans &trans   &trans   &kp DEL   &trans    &trans
             >;
         };
 
